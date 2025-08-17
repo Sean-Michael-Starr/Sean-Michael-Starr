@@ -1,4 +1,4 @@
-<!-- README v 0.0.2 -->
+<!-- README v 0.0.3 -->
 
 <!-- header graphic -->
 
@@ -8,6 +8,7 @@
 # Elsewhere Online
 ## Platforms
 ## Direct Contact
+seanmichaelstarr@tuta.io
 # Autodidact Credentials
 ## Tech Related
 ## Non Tech Related
