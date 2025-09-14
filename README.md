@@ -1,4 +1,4 @@
-<!-- README v 0.0.3 -->
+<!-- README v 0.0.4 -->
 
 <!-- header graphic -->
 
@@ -9,8 +9,8 @@
 ## Platforms
 ## Direct Contact
 seanmichaelstarr@tuta.io
-# Autodidact Credentials
+<!-- # Autodidact Credentials
 ## Tech Related
 ## Non Tech Related
-# More Info
+# More Info -->
 <!-- links to tipjar etc --->
