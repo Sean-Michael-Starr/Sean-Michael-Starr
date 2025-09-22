@@ -1,4 +1,4 @@
-<!-- README v 0.1.6 -->
+<!-- README v 0.2.7 -->
 
 <!-- header graphic -->
 
@@ -9,8 +9,11 @@
 
 # Elsewhere Online
 ## Platforms
+<p align="center">
+<a href="https://www.instagram.com/seanmichaelstarr" target="instagram profile"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/250px-Instagram_icon.png" alt="instagram profile" width="40" height="40"/></a> </p>
+
 ## Direct Contact
-seanmichaelstarr@tuta.io
+<!-- email -->
 <!-- # Autodidact Credentials
 ## Tech Related
 ## Non Tech Related
