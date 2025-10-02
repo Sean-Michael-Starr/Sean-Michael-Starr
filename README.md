@@ -1,4 +1,4 @@
-<!-- README v 0.3.7 -->
+<!-- README v 0.4.7 -->
 
 <!-- header graphic -->
 
@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/seanmichaelstarr" target="instagram profile"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/250px-Instagram_icon.png" alt="instagram profile" width="40" height="40"/></a> <a href="https://www.goodreads.com/user/show/192170481-sean-michael-starr" target="goodreads profile"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Goodreads_favicon.png" alt="goodreads profile" width="40" height="40"/></a> </p>
 
 ## Direct Contact
-
+seanmichaelstarr@tuta.io
 # PGP Key
 Public PGP Key file available <a href="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/usr/Sean%20Michael%20Starr_0x19D438E6_public.asc" target="public pgp file">here</a>
 ```
