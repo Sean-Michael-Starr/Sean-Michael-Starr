@@ -1,6 +1,6 @@
-<!-- README v 0.8.7 -->
+<!-- README v 0.9.7 alpha -->
 
-<!-- header graphic -->
+<img src="https://github.com/Sean-Michael-Starr/Sean-Michael-Starr/blob/main/Assets/img/SMSpinkANDblueNEONpistols.jpg" align="center" alt="SMS" />
 
 # Tools and Skills <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="39" height="40" alt="tools and skills icons" />
 ## Current
