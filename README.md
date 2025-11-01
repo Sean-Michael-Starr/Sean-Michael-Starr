@@ -1,4 +1,4 @@
-<!-- README v 0.9.7 alpha -->
+<!-- README v 0.10.7 alpha -->
 
 <img src="https://github.com/Sean-Michael-Starr/Sean-Michael-Starr/blob/main/Assets/img/SMSpinkANDblueNEONpistols.jpg" align="center" alt="SMS" />
 
@@ -33,8 +33,12 @@ HpQkEr81TbkD
 =nP5I
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-<!-- email -->
+# Quantification  
+## GitHub Stats
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-Michael-Starr&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
+
 <!-- # Autodidact Credentials
+## Interests
 ## Tech Related
 ## Non Tech Related
 # More Info -->
