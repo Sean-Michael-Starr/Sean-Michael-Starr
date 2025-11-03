@@ -1,11 +1,11 @@
-<!-- README v 0.12.8 alpha -->
+<!-- README v 0.13.8 alpha -->
 
 <img src="https://github.com/Sean-Michael-Starr/Sean-Michael-Starr/blob/main/Assets/img/SMSpinkANDblueNEONpistols.jpg" align="center" alt="SMS" />
 
 # Tools and Skills <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="39" height="40" alt="tools and skills icons" />
 ## Current
 <p align="center"> 
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  <a href="https://www.debian.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/250px-Openlogo-debianV2.svg.png" alt="debian" width="32" height="40"/></a> <a href="https://www.github.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" alt="github" width="40" height="40"/></a> <a href="https://vscodium.com/" target="VSCodium"> <img src="https://raw.githubusercontent.com/VSCodium/icons/refs/heads/main/icons/linux/nobg/blue1/paulo22s.png" alt="VSCodium" width="40" height="40"/>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  <a href="https://www.debian.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/250px-Openlogo-debianV2.svg.png" alt="debian" width="32" height="40"/></a> <a href="https://www.github.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" alt="github" width="40" height="40"/></a> <a href="https://vscodium.com/" target="VSCodium"> <img src="https://raw.githubusercontent.com/VSCodium/icons/refs/heads/main/icons/linux/nobg/blue1/paulo22s.png" alt="VSCodium" width="40" height="40"/></a> <a href="https://www.obsidian.md" target="Obsidian"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/250px-2023_Obsidian_logo.svg.png" width="40" height="40" /></a>
 
 # Elsewhere Online
 ## Platforms
