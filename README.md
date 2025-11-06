@@ -1,4 +1,4 @@
-<!-- README v 0.15.8 alpha -->
+<!-- README v 0.15.9 alpha -->
 
 <img src="https://github.com/Sean-Michael-Starr/Sean-Michael-Starr/blob/main/Assets/img/SMSpinkANDblueNEONpistols.jpg" align="center" alt="SMS" />
 
@@ -41,7 +41,7 @@ HpQkEr81TbkD
 ## Languages Used
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-michael-starr&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Trophies 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sean-michael-starr&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=sean-michael-starr&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!-- # Autodidact Credentials
