@@ -1,4 +1,4 @@
-<!-- README v 0.20.10 alpha -->
+<!-- README v 0.20.11 alpha -->
 
 <img src="https://github.com/Sean-Michael-Starr/Sean-Michael-Starr/blob/main/Assets/img/SMSpinkANDblueNEONpistols.jpg" align="center" alt="SMS" />
 
@@ -53,4 +53,6 @@ HpQkEr81TbkD
 ## Tech Related
 ## Non Tech Related
 # More Info -->
-<!-- links to tipjar etc --->
+<!-- links to tipjar etc 
+interest: democratization of Military grade equipment
+--->
