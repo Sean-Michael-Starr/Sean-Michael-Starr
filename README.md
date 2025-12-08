@@ -1,9 +1,9 @@
-<!-- README v 0.22.12 alpha -->
+<!-- README v 0.22.13 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
 
-<h1 align="center">TECH STACKS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="39" height="40" alt="tools and skills icons" align="top" />
+<h1 align="center">TECH STACKS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="34" height="35" alt="tools and skills icons" align="top" />
 
 ## Current
  
