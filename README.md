@@ -1,4 +1,4 @@
-<!-- README v 0.22.13 alpha -->
+<!-- README v 0.23.14 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
@@ -35,8 +35,12 @@ HpQkEr81TbkD
 =nP5I
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-# Standards
-## Ethos
+# STANDARDS
+<h2 align="center">ETHOS</h2>
+
+<a href="https://www.codeisfreespeech.com/" target="Code Is Free Speech">
+<img src="https://www.codeisfreespeech.com/cfs-banner.jpg" width="360" height="120" alt="Code Is Free Speech" /></a>
+
 ## Comrades 
 # Quantification  
 ## GitHub Stats
