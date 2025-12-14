@@ -1,4 +1,4 @@
-<!-- README v 0.24.15 alpha -->
+<!-- README v 0.24.16 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
@@ -6,8 +6,10 @@
 <h1 align="center">TECH STACKS <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="34" height="35" alt="tools and skills icons" align="top" />
 
 <h2 align="center">CURRENT</h2>
- 
+<p align="center">
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/></a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>  <a href="https://www.debian.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Openlogo-debianV2.svg/250px-Openlogo-debianV2.svg.png" alt="debian" width="32" height="40"/></a> <a href="https://www.github.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/128px-Github-desktop-logo-symbol.svg.png" alt="github" width="40" height="40"/></a> <a href="https://vscodium.com/" target="VSCodium"> <img src="https://raw.githubusercontent.com/VSCodium/icons/refs/heads/main/icons/linux/nobg/blue1/paulo22s.png" alt="VSCodium" width="40" height="40"/></a> <a href="https://www.obsidian.md" target="Obsidian"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/250px-2023_Obsidian_logo.svg.png" width="40" height="40" /></a> <a href="https://www.drawio.com" target="DrawIO"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/250px-Diagrams.net_Logo.svg.png" width="40" height="40" alt="DrawIO" /></a> <a href="https://www.fritzing.org" target="fritzing"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Fritzing_icon_%28new%29.png" height="40" length="40" alt="Fritzing" /></a> <a href="https://www.atak.gov" target="ATAK"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/ATAK_Civilian_Logo.png" width="38" height="40" alt="ATAK" />
+</a>
+</p>
 
 # Elsewhere Online <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" width="39" height="40" />
 ## Platforms
