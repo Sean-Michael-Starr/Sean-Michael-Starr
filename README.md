@@ -11,7 +11,8 @@
 </a>
 </p>
 
-<h1 align="center">Elsewhere Online</h1> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" width="34" height="35" align="top" />
+<h1 align="center">ELSEWHERE <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" width="34" height="35" align="top" /></h1>
+
 ## Platforms
 <p align="center">
 <a href="https://www.instagram.com/seanmichaelstarr" target="instagram profile"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/250px-Instagram_icon.png" alt="instagram profile" width="40" height="40"/></a> <a href="https://www.goodreads.com/user/show/192170481-sean-michael-starr" target="goodreads profile"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Goodreads_favicon.png" alt="goodreads profile" width="40" height="40"/></a> <a href="https://iris.to/npub1hdzzr8snjs9mk70qk2cmjl89xkdgwm0wl26mzyl4a7ld7sasu4qqkem5zx" target="nostr profile"><img src="https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png" alt="nostr icon" width="40" height="40" /></a> <a href="https://www.threads.com/@seanmichaelstarr" target="threads profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/250px-Threads_%28app%29.svg.png" alt="threads icon" width="40" height"40" /><a href="https://mastodon.social/@seanmichaelstarr" target="Mastodon Profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/216px-Mastodon_Logotype_%28Simple%29.svg.png" alt="Mastodon" width="37" height="40" /></a> <a href="https://substack.com/@seanmichaelstarr"><img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/substack.png" width="35" height="40" alt="Substack Profile" /></a>
