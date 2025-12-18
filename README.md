@@ -1,4 +1,4 @@
-<!-- README v 0.24.17 alpha -->
+<!-- README v 0.25.17 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
@@ -12,6 +12,9 @@
 </p>
 
 <h1 align="center">ELSEWHERE <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Blue_globe_icon.svg" width="34" height="35" align="top" /></h1>
+<p align="center">
+Online presence on other platforms, and methods for direct contact.
+</p>
 
 ## Platforms
 <p align="center">
