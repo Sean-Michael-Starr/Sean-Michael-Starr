@@ -1,4 +1,4 @@
-<!-- README v 0.25.19 alpha -->
+<!-- README v 0.25.20 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
@@ -21,8 +21,10 @@ Online presence on other platforms, and methods for direct contact.
 <a href="https://www.instagram.com/seanmichaelstarr" target="instagram profile"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/250px-Instagram_icon.png" alt="instagram profile" width="40" height="40"/></a> <a href="https://www.goodreads.com/user/show/192170481-sean-michael-starr" target="goodreads profile"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Goodreads_favicon.png" alt="goodreads profile" width="40" height="40"/></a> <a href="https://iris.to/npub1hdzzr8snjs9mk70qk2cmjl89xkdgwm0wl26mzyl4a7ld7sasu4qqkem5zx" target="nostr profile"><img src="https://user-images.githubusercontent.com/99301796/219741736-3ce00069-9c6a-47f2-9c8b-108f3f40295b.png" alt="nostr icon" width="40" height="40" /></a> <a href="https://www.threads.com/@seanmichaelstarr" target="threads profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Threads_%28app%29.svg/250px-Threads_%28app%29.svg.png" alt="threads icon" width="40" height"40" /><a href="https://mastodon.social/@seanmichaelstarr" target="Mastodon Profile"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Mastodon_Logotype_%28Simple%29.svg/216px-Mastodon_Logotype_%28Simple%29.svg.png" alt="Mastodon" width="37" height="40" /></a> <a href="https://substack.com/@seanmichaelstarr"><img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/substack.png" width="35" height="40" alt="Substack Profile" /></a>
 </p>
 
-## Direct Contact
+<h2 align="center">DIRECT CONTACT 💬</h2>
+
 seanmichaelstarr@tuta.io
+
 # PGP Key
 Public PGP Key file available <a href="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/usr/Sean%20Michael%20Starr_0x19D438E6_public.asc" target="public pgp file">here</a>
 ```
