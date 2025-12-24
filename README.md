@@ -1,4 +1,4 @@
-<!-- README v 0.25.20 alpha -->
+<!-- README v 0.26.20 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
@@ -22,8 +22,11 @@ Online presence on other platforms, and methods for direct contact.
 </p>
 
 <h2 align="center">DIRECT CONTACT 💬</h2>
+<p align="center">
+<i>Coming Soon: See CONTACT.md for details about each option to determine which is best for your situation.</i>
+</p>
 
-seanmichaelstarr@tuta.io
+seanmichaelstarr@tuta.io 📨
 
 # PGP Key
 Public PGP Key file available <a href="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/usr/Sean%20Michael%20Starr_0x19D438E6_public.asc" target="public pgp file">here</a>
