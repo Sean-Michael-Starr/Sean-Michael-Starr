@@ -1,4 +1,4 @@
-<!-- README v 0.26.20 alpha -->
+<!-- README v 0.27.20 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
@@ -28,8 +28,10 @@ Online presence on other platforms, and methods for direct contact.
 
 seanmichaelstarr@tuta.io 📨
 
-# PGP Key
-Public PGP Key file available <a href="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/usr/Sean%20Michael%20Starr_0x19D438E6_public.asc" target="public pgp file">here</a>
+<h1 align="center">PGP KEY <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" width="27" height="35" alt="GnuPG" align="top" /></h1>
+<p align="center">
+Public PGP Key file available <a href="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/usr/Sean%20Michael%20Starr_0x19D438E6_public.asc" target="public pgp file">here</a></p>
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
