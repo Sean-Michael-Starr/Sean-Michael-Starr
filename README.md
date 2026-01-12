@@ -1,4 +1,4 @@
-<!-- README v 0.27.20 alpha -->
+<!-- README v 0.28.20 alpha -->
 
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
@@ -54,7 +54,8 @@ HpQkEr81TbkD
 <a href="https://www.codeisfreespeech.com/" target="Code Is Free Speech">
 <img src="https://www.codeisfreespeech.com/cfs-banner.jpg" width="360" height="120" alt="Code Is Free Speech" /></a>
 
-## Comrades 
+<h2 align="center">COMRADES <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Red_stylized_fist.svg" height="35" width="28" align="top" alt="✊️" /></h2>
+
 # Quantification  
 ## GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-Michael-Starr&show_icons=true&theme=neon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
