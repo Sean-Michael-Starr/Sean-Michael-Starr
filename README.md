@@ -1,5 +1,5 @@
-<!-- README v 0.28.20 alpha -->
-
+<!-- README v 0.30.20 alpha -->
+<!-- center header -->
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
 
 
@@ -50,13 +50,14 @@ HpQkEr81TbkD
 ```
 # STANDARDS
 <h2 align="center">ETHOS</h2>
-
+<p align="center">
 <a href="https://www.codeisfreespeech.com/" target="Code Is Free Speech">
 <img src="https://www.codeisfreespeech.com/cfs-banner.jpg" width="360" height="120" alt="Code Is Free Speech" /></a>
-
+</p>
 <h2 align="center">COMRADES <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Red_stylized_fist.svg" height="35" width="28" align="top" alt="✊️" /></h2>
 
 # Quantification  
+<!-- self-hosting needed
 ## GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-Michael-Starr&show_icons=true&theme=neon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
 ## GitHub Streaks
@@ -65,6 +66,7 @@ HpQkEr81TbkD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-michael-starr&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-michael-starr&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 ## Activity Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sean-michael-starr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
