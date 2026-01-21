@@ -1,6 +1,6 @@
-<!-- README v 0.30.20 alpha -->
-<!-- center header -->
-<img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1>
+<!-- README v 0.30.21 alpha -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1> </p>
 
 
 <h1 align="center">TECH STACK<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="34" height="35" alt="tools and skills icons" align="top" />
