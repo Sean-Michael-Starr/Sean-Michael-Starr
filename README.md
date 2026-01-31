@@ -1,4 +1,4 @@
-<!-- README v 0.30.21 alpha -->
+<!-- README v 0.30.22 alpha -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1> </p>
 
@@ -48,7 +48,7 @@ HpQkEr81TbkD
 =nP5I
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-# STANDARDS
+<h1 align="center">STANDARDS</h1>
 <h2 align="center">ETHOS</h2>
 <p align="center">
 <a href="https://www.codeisfreespeech.com/" target="Code Is Free Speech">
