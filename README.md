@@ -1,9 +1,9 @@
-<!-- README v 0.31.22 alpha -->
+<!-- README v 0.32.22 alpha -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></h1> </p>
+<img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></p>
 
 
-<h1 align="center">TECH STACK<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="34" height="35" alt="tools and skills icons" align="top" />
+<h1 align="center">TECH STACK<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="34" height="35" alt="tools and skills icons" align="top" /></h1>
 
 <h2 align="center">CURRENT</h2>
 <p align="center">
@@ -28,7 +28,7 @@ Online presence on other platforms, and methods for direct contact.
 
 seanmichaelstarr@tuta.io 📨
 
-<h1 align="center">PGP KEY <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" width="27" height="35" alt="GnuPG" align="top" /></h1>
+<h2 align="center">PGP KEY <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" width="27" height="35" alt="GnuPG" align="top" /></h2>
 <p align="center">
 Public PGP Key file available <a href="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/usr/Sean%20Michael%20Starr_0x19D438E6_public.asc" target="public pgp file">here</a></p>
 
@@ -56,7 +56,7 @@ HpQkEr81TbkD
 </p>
 <h2 align="center">COMRADES <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Red_stylized_fist.svg" height="35" width="28" align="top" alt="✊️" /></h2>
 
-# Quantification  
+<h1 align="center">QUANTIFICATION</h1> 
 <!-- self-hosting needed
 ## GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-Michael-Starr&show_icons=true&theme=neon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
@@ -67,7 +67,8 @@ HpQkEr81TbkD
 ## GitHub Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-michael-starr&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 -->
-## Activity Graph
+<h2 align="center">ACTIVITY GRAPH</h2>
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sean-michael-starr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- # Autodidact Credentials
