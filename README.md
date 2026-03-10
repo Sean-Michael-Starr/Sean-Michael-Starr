@@ -1,4 +1,4 @@
-<!-- README v 0.34.22 alpha -->
+<!-- README v 0.35.22 alpha -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></p>
 <!-- header badges -->
@@ -27,10 +27,11 @@ Online presence on other platforms, and methods for direct contact.
 <h2 align="center">DIRECT CONTACT 💬</h2>
 <p align="center">
 <i>Coming Soon: See CONTACT.md for details about each option to determine which is best for your situation.</i>
+
+![Tuta Badge](https://img.shields.io/badge/Tuta-850122?logo=tuta&logoColor=fff&style=for-the-badge) <br>
+seanmichaelstarr@tuta.io
+
 </p>
-
-seanmichaelstarr@tuta.io 📨
-
 <h2 align="center">PGP KEY <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/GnuPG-Logo.svg" width="27" height="35" alt="GnuPG" align="top" /></h2>
 <p align="center">
 Public PGP Key file available <a href="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/usr/Sean%20Michael%20Starr_0x19D438E6_public.asc" target="public pgp file">here</a></p>
