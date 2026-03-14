@@ -1,4 +1,4 @@
-<!-- README v 0.37.22 alpha -->
+<!-- README v 0.38.22 alpha -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></p>
 <!-- header badges -->
@@ -66,7 +66,11 @@ HpQkEr81TbkD
 <img src="https://www.codeisfreespeech.com/cfs-banner.jpg" width="360" height="120" alt="Code Is Free Speech" /></a>
 </p>
 <h2 align="center">COMRADES <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Red_stylized_fist.svg" height="35" width="28" align="top" alt="✊️" /></h2>
-
+<h2 align="center">SUPPORTED PROJECTS</h2>
+<h3 align="center">GITHUB REPOSITORIES</h3>
+<p align="center">
+<a href="https://github.com/permissionlesstech/bitchat">BitChat</a> |
+</p>
 <h1 align="center">QUANTIFICATION</h1> 
 <!-- self-hosting needed
 ## GitHub Stats
