@@ -1,4 +1,4 @@
-<!-- README v 1.40.22-alpha -->
+<!-- README v 1.41.22-alpha -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" align="center" alt="SMS" /></p>
 <!-- header badges -->
@@ -6,9 +6,17 @@
 <img alt="Cryptpad Public Key" src="https://img.shields.io/badge/Cryptpad%20Key-Usd4a7pwETXqgfT4uas6--gV0ReBgIQ138P2mGfQQmRQ-grey?style=for-the-badge&logo=cryptpad&logoSize=auto&labelColor=aqua&link=https%3A%2F%2Fcryptpad.fr%2Fprofile%2F%23%2F2%2Fprofile%2Fview%2FJhGF-90VqBg%2BEOh5gqSqzj-KPpnHVAj5ljQEcQ2O%2Bsc%2F">
 <img alt="ORCID" src="https://img.shields.io/badge/ORCID-0009--0007--6256--9488-grey?style=for-the-badge&logo=orcid&logoColor=white&logoSize=auto&labelColor=%23A6CE39"> 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/sean-michael-starr?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=blue&color=grey">
-<img alt="Doucmemt Last Updated" src="https://img.shields.io/badge/Doc_Update%3A-2026--03--23-grey?style=for-the-badge&logo=markdown&logoColor=%23000000&logoSize=auto&labelColor=aqua">
+<img alt="Doucmemt Last Updated" src="https://img.shields.io/badge/Doc_Update%3A-2026--03--30-grey?style=for-the-badge&logo=markdown&logoColor=%23000000&logoSize=auto&labelColor=aqua">
+<!-- chanhe.when updated -->
+<img alt="Static Badge" src="https://img.shields.io/badge/LIGHTING_ADRESS-triterugby954%40walletofsatoshi.com-grey?style=for-the-badge&logo=bitcoin&logoColor=white&logoSize=auto&labelColor=%23F7931A">
+<!-- add link when QR code in permanent repo -->
 </p>
-
+<!-- 
+-.pgp fingerprint linked to public key
+- compartmemtalized 
+- nostr pubkey linked to profile on iris
+  - Does Iris support markdown?
+-->
 
 <h1 align="center">TECH STACK<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Hammer-keyboard-2.svg/250px-Hammer-keyboard-2.svg.png" width="34" height="35" alt="tools and skills icons" align="top" /></h1>
 
@@ -72,7 +80,7 @@ HpQkEr81TbkD
 <h2 align="center">SUPPORTED PROJECTS</h2>
 <h3 align="center">GITHUB REPOSITORIES</h3>
 <p align="center">
-<a href="https://github.com/permissionlesstech/bitchat">BitChat</a> |
+<a href="https://github.com/permissionlesstech/bitchat">BitChat</a> | <a href="https://github.com/dronecode"> DroneCode</a> |
 </p>
 <h1 align="center">QUANTIFICATION</h1> 
 <!-- self-hosting needed
