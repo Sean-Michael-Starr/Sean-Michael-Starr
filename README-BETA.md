@@ -1,5 +1,15 @@
+<!-- doc ver 1.0.0-beta -->
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif" alt="SMS">
+![HEADER](https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif)
 
 </p>
+
+
+
+
+---
+<!-- ![Alt Text](path/to/image.png) -->
+
+
+---
