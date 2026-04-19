@@ -1,16 +1,16 @@
-<!-- doc ver 1.1.0-beta -->
-<p align="center">
+<!-- doc ver 1.2.0-beta -->
+<div align="center">
 
 ![HEADER](https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif)
-</p>
+</div>
 
 ---
 
-<p align="center"> 
+<div align="center">
  
 [![Static Badge](https://img.shields.io/badge/ORCID-0009--0007--6256--9488-end?style=for-the-badge&logo=ORCID&logoColor=white&logoSize=auto&labelColor=%23A6CE39&color=grey)](https://orcid.org/0009-0007-6256-9488)
 
-</p>
+</div>
 
 
 
