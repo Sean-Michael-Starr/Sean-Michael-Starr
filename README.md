@@ -23,6 +23,13 @@
 <h2 align="center">CURRENT</h2>
 <div align="center">
 
+
+<img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-grey?style=for-the-badge&logo=cplusplus&logoSize=auto&labelColor=%23044F88&color=%23044F88"> <img alt="Static Badge" src="https://img.shields.io/badge/Arduino-%2300878F?style=for-the-badge&logo=arduino&logoColor=white&logoSize=auto&labelColor=%2300878F&color=%2300878F">
+
+
+</div>
+
+<div align="center">
 <a href="https://www.arduino.cc/" target="Arduino"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"></a> 
 
 <a href="https://www.cprogramming.com/" target="C Language"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"></a> 
