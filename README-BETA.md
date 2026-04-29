@@ -1,4 +1,4 @@
-<!-- doc ver 1.5.1-beta -->
+<!-- doc ver 1.6.1-beta -->
 <div align="center">
 
 ![HEADER](https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif)
@@ -16,6 +16,8 @@
 ---
 
 ![GitHub followers](https://img.shields.io/github/followers/Sean-Michael-Starr?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=blue&color=grey)
+![Doc Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSean-Michael-Starr%2FSean-Michael-Starr%2Frefs%2Fheads%2Fmain%2Fmetadata.json&query=doc_version&style=for-the-badge&logo=markdown&logoSize=auto&label=Doc%20Version&labelColor=blue&color=grey)
+
 
 </div>
 
