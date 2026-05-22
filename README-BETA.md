@@ -1,7 +1,9 @@
-<!-- doc ver 1.7.1-beta -->
+<!-- doc ver 1.8.1-beta -->
 <div align="center">
-
-![HEADER](https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif)
+<img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
+<br>
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Theme%3A_Dark-Light-black?style=for-the-badge&logo=shields.io&logoColor=black&logoSize=auto&labelColor=white&link=https%3A%2F%2Fwww.github.com%2FSean-Michael-Starr%2FSean-Michael-Starr%2FREADME-LIGHT.md">
 </div>
 
 ---
