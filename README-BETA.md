@@ -31,7 +31,7 @@
 <h3 align="center">SYSTEMS</h3>
 <div align="center">
 
-<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge&link=https%3A%2F%2Fwww.debian.org" alt="Debian">
+<a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge" alt="Debian"></a>
 
 </div>
 
