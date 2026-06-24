@@ -25,6 +25,16 @@
 
 </div>
 
+---
+
+<h2 align="center">TECH STACK</h2>
+<h3 align="center">SYSTEMS</h3>
+<div align="center">
+
+<img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge&link=https%3A%2F%2Fwww.debian.org" alt="Debian">
+
+</div>
+
 <!-- 
 
 ![Alt Text](path/to/image.png)
