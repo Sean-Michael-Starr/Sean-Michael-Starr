@@ -30,8 +30,7 @@
 <h2 align="center">TECH STACK</h2>
 <h3 align="center">SYSTEMS</h3>
 <div align="center">
-<a href="https://www.distrowatch.com" target="distrowatch.com"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux"></a> <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge" alt="Debian"></a>
-
+<a href="https://www.distrowatch.com" target="distrowatch.com"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux"></a> <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge" alt="Debian"></a> <a href="https://www.qubes-os.org" target="Qubes OS"><img src="https://img.shields.io/badge/Qubes%20OS-3874D8?logo=qubesos&logoColor=fff&style=for-the-badge" alt="Qubes OS"></a>
 </div>
 
 <!-- 
