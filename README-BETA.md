@@ -1,4 +1,4 @@
-<!-- doc ver 1.9.1-beta -->
+<!-- doc ver 1.16.1-beta -->
 <h1 align="center">SMS</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
@@ -32,13 +32,9 @@
 <div align="center">
 <a href="https://www.distrowatch.com" target="distrowatch.com"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux"></a> <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge" alt="Debian"></a> <a href="https://www.qubes-os.org" target="Qubes OS"><img src="https://img.shields.io/badge/Qubes%20OS-3874D8?logo=qubesos&logoColor=fff&style=for-the-badge" alt="Qubes OS"></a> <a href="https://www.tails.net" target="TAILS Linux"><img src="https://img.shields.io/badge/Tails-56347C?logo=tails&logoColor=fff&style=for-the-badge" alt="Tails"></a> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android"> <a href="https://www.lineageos.org" target="LineageOS"><img src="https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=for-the-badge" alt="LineageOS"></a>
 </div>
-
-<!-- 
-
-![Alt Text](path/to/image.png)
-
-To display an image as a clickable link in Markdown, wrap the image syntax inside a Markdown link using the format [![Alt text](image_url)](link_url)
-
--->
+<h3 align="center">HARDWARE</h3>
+<div align="center">
+<a href="https://www.arduino.cc/" target="Arduino"><img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"></a>
+</div>
 
 ---
