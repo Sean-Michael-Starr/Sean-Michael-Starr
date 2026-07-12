@@ -90,7 +90,7 @@ HpQkEr81TbkD
 <h1 align="center">QUANTIFICATION</h1> 
 
 ## GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-Michael-Starr&show_icons=true&theme=neon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
+[![Your GitHub stats](https://github-stats-extended.vercel.app/api?username=Sean-Michael-Starr&theme=radical)](https://github.com/anuraghazra/github-readme-stats)   
 ## GitHub Streaks
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sean-michael-starr&theme=neon&background=000000)](https://git.io/streak-stats)   
 ## Languages Used
