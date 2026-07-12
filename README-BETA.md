@@ -1,4 +1,4 @@
-<!-- doc ver 1.20.1-beta -->
+<!-- doc ver 1.21.1-beta -->
 <h1 align="center">SMS</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
@@ -31,10 +31,11 @@
 <h3 align="center">SYSTEMS</h3>
 <div align="center">
 <a href="https://www.distrowatch.com" target="distrowatch.com"><img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge" alt="Linux"></a> <a href="https://www.debian.org"><img src="https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=for-the-badge" alt="Debian"></a> <a href="https://www.qubes-os.org" target="Qubes OS"><img src="https://img.shields.io/badge/Qubes%20OS-3874D8?logo=qubesos&logoColor=fff&style=for-the-badge" alt="Qubes OS"></a> <a href="https://www.tails.net" target="TAILS Linux"><img src="https://img.shields.io/badge/Tails-56347C?logo=tails&logoColor=fff&style=for-the-badge" alt="Tails"></a> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" alt="Android"> <a href="https://www.lineageos.org" target="LineageOS"><img src="https://img.shields.io/badge/LineageOS-167C80?logo=lineageos&logoColor=fff&style=for-the-badge" alt="LineageOS"></a>
+ <a href="https://openwrt.org/" target="OpenWRT"><img src="https://img.shields.io/badge/OpenWrt-00B5E2?logo=openwrt&logoColor=fff&style=for-the-badge" alt="OpenWRT"></a>
 </div>
 <h3 align="center">HARDWARE</h3>
 <div align="center">
-<a href="https://www.arduino.cc/" target="Arduino"><img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"></a> <a href="https://www.raspberrypi.com/" target="Raspberry Pi"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" alt="Raspberry Pi"></a> <a href="https://www.arm.com/" target="ARM"><img src="https://img.shields.io/badge/Arm-0091BD?logo=arm&logoColor=fff&style=for-the-badge" alt="ARM"></a> <a href="https://www.adafruit.com/"><img src="https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=for-the-badge" alt="Adafruit"></a>
+<a href="https://www.arduino.cc/" target="Arduino"><img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"></a> <a href="https://www.raspberrypi.com/" target="Raspberry Pi"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" alt="Raspberry Pi"></a> <a href="https://www.arm.com/" target="ARM"><img src="https://img.shields.io/badge/Arm-0091BD?logo=arm&logoColor=fff&style=for-the-badge" alt="ARM"></a> <a href="https://riscv.org/" target="RISV-V"><img src="https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=fff&style=for-the-badge" alt="RISC-V"> <a href="https://opensource.com/resources/what-open-hardware" target="What Is Open Source Hardware"><img src="https://img.shields.io/badge/Open%20Source%20Hardware-0099B0?logo=opensourcehardware&logoColor=fff&style=for-the-badge" alt="Open Source Hardware"> <a href="https://www.adafruit.com/"><img src="https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=for-the-badge" alt="Adafruit"></a> 
 </div>
 
 <h3 align="center">TOOLS</h3>
