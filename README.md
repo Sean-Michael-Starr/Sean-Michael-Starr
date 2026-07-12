@@ -88,7 +88,7 @@ HpQkEr81TbkD
 <a href="https://github.com/permissionlesstech/bitchat">BitChat</a> | <a href="https://github.com/dronecode"> DroneCode</a> |
 </p>
 <h1 align="center">QUANTIFICATION</h1> 
-<!-- self-hosting needed
+
 ## GitHub Stats
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sean-Michael-Starr&show_icons=true&theme=neon&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)   
 ## GitHub Streaks
@@ -97,7 +97,7 @@ HpQkEr81TbkD
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sean-michael-starr&theme=neon)](https://github.com/anuraghazra/github-readme-stats)
 ## GitHub Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sean-michael-starr&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
--->
+
 <h2 align="center">ACTIVITY GRAPH</h2>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sean-michael-starr&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
