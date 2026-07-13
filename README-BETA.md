@@ -1,4 +1,4 @@
-<!-- doc ver 1.21.1-beta -->
+<!-- doc ver 1.22.1-beta -->
 <h1 align="center">SMS</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
@@ -35,7 +35,7 @@
 </div>
 <h3 align="center">HARDWARE</h3>
 <div align="center">
-<a href="https://www.arduino.cc/" target="Arduino"><img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"></a> <a href="https://www.raspberrypi.com/" target="Raspberry Pi"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" alt="Raspberry Pi"></a> <a href="https://www.arm.com/" target="ARM"><img src="https://img.shields.io/badge/Arm-0091BD?logo=arm&logoColor=fff&style=for-the-badge" alt="ARM"></a> <a href="https://riscv.org/" target="RISV-V"><img src="https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=fff&style=for-the-badge" alt="RISC-V"> <a href="https://opensource.com/resources/what-open-hardware" target="What Is Open Source Hardware"><img src="https://img.shields.io/badge/Open%20Source%20Hardware-0099B0?logo=opensourcehardware&logoColor=fff&style=for-the-badge" alt="Open Source Hardware"> <a href="https://www.adafruit.com/"><img src="https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=for-the-badge" alt="Adafruit"></a> 
+<a href="https://www.arduino.cc/" target="Arduino"><img src="https://img.shields.io/badge/Arduino-00878F?logo=arduino&logoColor=fff&style=for-the-badge" alt="Arduino"></a> <a href="https://www.raspberrypi.com/" target="Raspberry Pi"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=fff&style=for-the-badge" alt="Raspberry Pi"></a> <a href="https://www.arm.com/" target="ARM"><img src="https://img.shields.io/badge/Arm-0091BD?logo=arm&logoColor=fff&style=for-the-badge" alt="ARM"></a> <a href="https://riscv.org/" target="RISV-V"><img src="https://img.shields.io/badge/RISC--V-283272?logo=riscv&logoColor=fff&style=for-the-badge" alt="RISC-V"> <a href="https://opensource.com/resources/what-open-hardware" target="What Is Open Source Hardware"><img src="https://img.shields.io/badge/Open%20Source%20Hardware-0099B0?logo=opensourcehardware&logoColor=fff&style=for-the-badge" alt="Open Source Hardware"> <a href="https://www.adafruit.com/"><img src="https://img.shields.io/badge/Adafruit-000?logo=adafruit&logoColor=fff&style=for-the-badge" alt="Adafruit"></a> <a href="https://www.elegoo.com/" target="Elegoo"><img src="https://img.shields.io/badge/Elegoo-2C3A83?logo=elegoo&logoColor=fff&style=for-the-badge" alt="Elegoo"></a> <a href="https://www.sparkfun.com/" target="Sparkfun"><img src="https://img.shields.io/badge/SparkFun-E53525?logo=sparkfun&logoColor=fff&style=for-the-badge" alt="SparkFun"></a>
 </div>
 
 <h3 align="center">TOOLS</h3>
