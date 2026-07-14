@@ -19,7 +19,7 @@
 ---
 
 ![GitHub followers](https://img.shields.io/github/followers/Sean-Michael-Starr?style=for-the-badge&logo=github&logoColor=white&logoSize=auto&labelColor=blue&color=grey)
-![Doc Version](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSean-Michael-Starr%2FSean-Michael-Starr%2Frefs%2Fheads%2Fmain%2Fmetadata.json&query=doc_version&style=for-the-badge&logo=markdown&logoSize=auto&label=Doc%20Version&labelColor=blue&color=grey)
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSean-Michael-Starr%2FSean-Michael-Starr%2Frefs%2Fheads%2Fmain%2Fmetadata.json&query=doc_version&style=for-the-badge&logo=markdown&logoSize=auto&label=Doc%20Version&labelColor=blue&color=grey">
 <img alt="Last Updated" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FSean-Michael-Starr%2FSean-Michael-Starr%2Frefs%2Fheads%2Fmain%2Fmetadata.json&query=readme_updated&style=for-the-badge&logo=github&logoSize=auto&label=LAST%20UPDATE&labelColor=blue&color=grey">
 
 
