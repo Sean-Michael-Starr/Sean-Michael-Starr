@@ -1,4 +1,4 @@
-<!-- doc ver 1.23.1-beta -->
+<!-- doc ver 1.24.1-beta -->
 <h1 align="center">SMS</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
@@ -41,8 +41,9 @@
 <h3 align="center">TOOLS</h3>
 
 <h3 align="center">LANGUAGES</h3>
-<a href="https://cplusplus.com/" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></a>
-
+<div align="center">
+<a href="https://cplusplus.com/" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></a> <a href="https://www.python.org/" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python"></a>
+</div>
 <h2 align="center">ELSEWHERE</h2>
 
 <h3 align="center">PLATFORMS</h3>
