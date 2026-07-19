@@ -1,4 +1,4 @@
-<!-- doc ver 1.24.1-beta -->
+<!-- doc ver 1.25.1-beta -->
 <h1 align="center">SMS</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
@@ -39,15 +39,19 @@
 </div>
 
 <h3 align="center">TOOLS</h3>
-
+<div align="center">
+<a href="https://neovim.io/" target="NeoVIM"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" alt="Neovim"></a>
+</div>
 <h3 align="center">LANGUAGES</h3>
 <div align="center">
-<a href="https://cplusplus.com/" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></a> <a href="https://www.python.org/" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python"></a>
+<a href="https://cplusplus.com/" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></a> <a href="https://www.python.org/" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python"></a> <a href="https://www.latex-project.org/" target="LaTeX"><img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge" alt="LaTeX"> 
 </div>
 <h2 align="center">ELSEWHERE</h2>
 
 <h3 align="center">PLATFORMS</h3>
-
+<div align="center">
+<a href="https://www.goodreads.com/user/show/192170481-sean-michael-starr" target="Goodreads Profile"><img src="https://img.shields.io/badge/Goodreads-1E1914?logo=goodreads&logoColor=fff&style=for-the-badge" alt="Goodreads"></a>
+</div>
 <h3 align="center">COMMS</h3>
 
 <h2 align="center">CORE</h2>
@@ -59,5 +63,9 @@
 <h3 align="center">PROJECTS</h3>
 
 <h3 align="center">PROTOCOLS</h3>
+
+<h2 align="center">IDENTIFICATION</h2>
+
+<h3 align="center">PGP KEY</h3>
 
 ---
