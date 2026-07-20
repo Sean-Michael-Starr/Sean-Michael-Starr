@@ -1,4 +1,4 @@
-<!-- doc ver 1.25.2-beta -->
+<!-- doc ver 1.26.2-beta -->
 <h1 align="center">SMS</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
@@ -44,7 +44,7 @@
 </div>
 <h3 align="center">LANGUAGES</h3>
 <div align="center">
-<a href="https://cplusplus.com/" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></a> <a href="https://www.python.org/" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python"></a> <a href="https://www.latex-project.org/" target="LaTeX"><img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge" alt="LaTeX"> 
+<a href="https://cplusplus.com/" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></a> <a href="https://www.python.org/" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python"></a> <a href="https://www.latex-project.org/" target="LaTeX"><img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge" alt="LaTeX"> <a href="https://html.spec.whatwg.org/multipage/" target="HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5"></a>
 </div>
 <h2 align="center">ELSEWHERE</h2>
 
@@ -55,7 +55,7 @@
 <h3 align="center">COMMS</h3>
 
 <h2 align="center">CORE</h2>
-
+---
 <h3 align="center">ETHOS</h3>
 
 <h3 align="center">COMRADES</h3>
