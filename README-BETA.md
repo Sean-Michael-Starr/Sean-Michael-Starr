@@ -1,4 +1,4 @@
-<!-- doc ver 1.26.2-beta -->
+<!-- doc ver 1.27.2-beta -->
 <h1 align="center">SMS</h1>
 <div align="center">
 <img src="https://raw.githubusercontent.com/Sean-Michael-Starr/Sean-Michael-Starr/refs/heads/main/Assets/img/RScityScape.gif">
@@ -40,22 +40,29 @@
 
 <h3 align="center">TOOLS</h3>
 <div align="center">
-<a href="https://neovim.io/" target="NeoVIM"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" alt="Neovim"></a>
+<a href="https://git-scm.com/" target="Git"><img src="https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=for-the-badge" alt="Git"></a> <a href="https://about.gitea.com/" target="Gitea"><img src="https://img.shields.io/badge/Gitea-609926?logo=gitea&logoColor=fff&style=for-the-badge" alt="Gitea"></a>
+<a href="https://neovim.io/" target="NeoVIM"><img src="https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=for-the-badge" alt="Neovim"></a> <a href="https://vscodium.com/" target="VSCodium"><img src="https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff&style=for-the-badge" alt="VSCodium"></a> 
 </div>
 <h3 align="center">LANGUAGES</h3>
 <div align="center">
 <a href="https://cplusplus.com/" target="C++"><img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=for-the-badge" alt="C++"></a> <a href="https://www.python.org/" target="Python"><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python"></a> <a href="https://www.latex-project.org/" target="LaTeX"><img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=fff&style=for-the-badge" alt="LaTeX"> <a href="https://html.spec.whatwg.org/multipage/" target="HTML5"><img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" alt="HTML5"></a>
 </div>
+
+---
+
 <h2 align="center">ELSEWHERE</h2>
 
 <h3 align="center">PLATFORMS</h3>
 <div align="center">
 <a href="https://www.goodreads.com/user/show/192170481-sean-michael-starr" target="Goodreads Profile"><img src="https://img.shields.io/badge/Goodreads-1E1914?logo=goodreads&logoColor=fff&style=for-the-badge" alt="Goodreads"></a>
 </div>
+
 <h3 align="center">COMMS</h3>
 
-<h2 align="center">CORE</h2>
 ---
+
+<h2 align="center">CORE</h2>
+
 <h3 align="center">ETHOS</h3>
 
 <h3 align="center">COMRADES</h3>
